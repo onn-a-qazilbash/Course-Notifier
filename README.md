@@ -6,7 +6,7 @@ A common issue I face when enrolling in university classes is they're usually fu
 
 The university offers a "feature" to be emailed if there is a spot open. However, my frustration with this system is the university sends emails per half hour. If a class has a spot open at 12:01, the university will send an email at 12:30. This delay is enough for other people to enroll before I can get the email. 
 
-This script will refresh the refresh the wait list page once every 10 minutes. If classes exist with one or more seats available, a text will be immediately sent to the users cell phone notifying them. 
+This script will refresh the wait list page once every 10 minutes. If classes exist with one or more seats available, a text will be immediately sent to the users cell phone to notify them. 
 
 ## How the text looks like
 ![](https://i.imgur.com/4nOpJ1W.jpg)
