@@ -8,7 +8,8 @@ The university offers a "feature" to be emailed if there is a spot open. However
 
 This script will refresh the refresh the wait list page once every 10 minutes. If classes exist with one or more seats available, a text will be immediately sent to the users cell phone notifying them. 
 
-![Images](https://imgur.com/a/Xsg9QDa)
+## How the text looks like
+![](https://i.imgur.com/4nOpJ1W.jpg)
 
 
 
